@@ -11,18 +11,25 @@
     <link href="css/styles.css" rel="stylesheet" />
   </head>
   <body>
+   
     <header>
       <div class="header-inner-container">
         <div class="header-text-container">
           <h1>AWESOME STARTUP EMPLOYEE DIRECTORY</h1>
         </div>
 
-        <div class="search-container"></div>
+        <div class="search-container">
+
+        </div>
       </div>
     </header>
 
-    <div id="gallery" class="gallery"></div>
+    <div id="gallery" class="gallery">
+
+    </div>
+
 
     <script src="js/script.js"></script>
+
   </body>
 </html>
